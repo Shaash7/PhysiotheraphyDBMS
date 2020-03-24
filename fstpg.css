@@ -1,0 +1,29 @@
+body{
+	color: black;
+	/*background: url(https://wallpaperplay.com/walls/full/c/2/9/102643.jpg);*/
+    background-color: rgba(0,0,255,.2);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	background-color: rgb(1,72,0);
+	padding: 4px;
+}
+li{
+	margin-bottom: 16px;
+	list-style: none;
+}
+a:hover{
+
+	background-color: rgb(1,100,0);
+}
+
+
