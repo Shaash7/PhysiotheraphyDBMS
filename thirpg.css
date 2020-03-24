@@ -1,0 +1,7 @@
+body{
+	color: pink;
+	/*background: url(https://wallpaperplay.com/walls/full/8/1/4/102634.jpg);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: hsla(120, 100%, 25%, 0.3);
+}
